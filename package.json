@@ -1,0 +1,11 @@
+{
+  "name": "eider.js",
+  "version": "1.0.0",
+  "description": "A simple CLI-progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Riva <vincent.riva@outlook.fr>",
+  "license": "ISC"
+}
