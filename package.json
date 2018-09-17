@@ -2,10 +2,27 @@
   "name": "eider.js",
   "version": "1.0.0",
   "description": "A simple CLI-progress bar",
-  "main": "index.js",
+  "main": "lib/eider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treast/eider.js.git"
+  },
+  "keywords": [
+    "progressbar",
+    "progress",
+    "bar",
+    "cli-progress",
+    "eider.js",
+    "eider",
+    "progression"
+  ],
   "author": "Vincent Riva <vincent.riva@outlook.fr>",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Treast/eider.js/issues"
+  },
+  "homepage": "https://github.com/Treast/eider.js#readme"
 }
